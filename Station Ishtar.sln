@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Station Ishtar.Plugins", "Station Ishtar.Plugins.csproj", "{4CEE9EE9-1967-7DCC-C6E3-5530C0EF108D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Station Ishtar", "Station Ishtar.csproj", "{9EB7099C-FF1A-8242-45D2-3E5841FEF9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Station Ishtar.Editor.Plugins", "Station Ishtar.Editor.Plugins.csproj", "{06F6D728-32BE-5516-A603-0C4671FF072B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEE9EE9-1967-7DCC-C6E3-5530C0EF108D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEE9EE9-1967-7DCC-C6E3-5530C0EF108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEE9EE9-1967-7DCC-C6E3-5530C0EF108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEE9EE9-1967-7DCC-C6E3-5530C0EF108D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB7099C-FF1A-8242-45D2-3E5841FEF9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB7099C-FF1A-8242-45D2-3E5841FEF9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB7099C-FF1A-8242-45D2-3E5841FEF9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB7099C-FF1A-8242-45D2-3E5841FEF9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F6D728-32BE-5516-A603-0C4671FF072B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F6D728-32BE-5516-A603-0C4671FF072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F6D728-32BE-5516-A603-0C4671FF072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F6D728-32BE-5516-A603-0C4671FF072B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
