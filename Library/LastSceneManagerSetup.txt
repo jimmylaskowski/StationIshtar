@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SampleScenes/Scenes/2dCharacter.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Scenes/Level.unity
+  isLoaded: 0
+  isActive: 0
